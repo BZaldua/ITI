@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Eliminar Platos del carrito</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a957db0b-5c95-4800-931d-e6c9c02767c2</testCaseGuid>
+</TestCaseEntity>

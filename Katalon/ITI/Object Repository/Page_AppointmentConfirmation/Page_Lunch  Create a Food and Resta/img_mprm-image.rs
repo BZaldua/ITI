@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_mprm-image</name>
+   <tag></tag>
+   <elementGuidId>432dee34-55f6-4afd-9bc3-a4b0ad070ca6</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>400</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>300</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://mprmdemo.getmotopress.com/wp-content/uploads/2016/01/upper-nachos-400x300.jpg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mprm-image</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>https://mprmdemo.getmotopress.com/wp-content/uploads/2016/01/upper-nachos-400x300.jpg 400w, https://mprmdemo.getmotopress.com/wp-content/uploads/2016/01/upper-nachos-770x578.jpg 770w, https://mprmdemo.getmotopress.com/wp-content/uploads/2016/01/upper-nachos-800x600.jpg 800w</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sizes</name>
+      <type>Main</type>
+      <value>(max-width: 400px) 85vw, 400px</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-0&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;mprm-main-wrapper&quot;]/div[@class=&quot;mprm-taxonomy-items-grid mprm-container mprm-category&quot;]/div[@class=&quot;mprm-container mprm-page-template-items mprm-view-grid&quot;]/div[@class=&quot;mprm-row&quot;]/div[@class=&quot;mprm-remove-hentry mprm-columns mprm-four post-1738 mp_menu_item type-mp_menu_item status-publish has-post-thumbnail mp_menu_category-dinner mp_menu_category-lunch mp_menu_tag-new mp_ingredient-cheese mp_ingredient-garlic mp_ingredient-salt mp_ingredient-tomato mprm-theme-mode mp-menu-item&quot;]/a[1]/img[@class=&quot;mprm-image&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Eliminar producto del carro de compra</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>85351061-46f9-4e03-a0f0-a7cf52d2a219</testCaseGuid>
+</TestCaseEntity>

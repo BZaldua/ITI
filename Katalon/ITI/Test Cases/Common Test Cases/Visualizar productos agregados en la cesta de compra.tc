@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Visualizar productos agregados en la cesta de compra</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c894b303-1a6b-4331-b703-74226d074ffe</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Checkout</name>
+   <tag></tag>
+   <elementGuidId>e9a43825-4222-4a02-a3f3-79e657ef6a5f</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://mprmdemo.getmotopress.com/checkout/</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Checkout</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mprm_cart_widget-3&quot;)/div[@class=&quot;mprm-cart-content&quot;]/div[@class=&quot;mprm-cart-content&quot;]/ul[@class=&quot;mprm-cart mprm-cart-items&quot;]/li[@class=&quot;mprm-cart-item mprm_checkout&quot;]/a[1]</value>
+   </webElementProperties>
+</WebElementEntity>
